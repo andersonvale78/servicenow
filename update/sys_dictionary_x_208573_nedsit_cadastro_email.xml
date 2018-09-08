@@ -54,15 +54,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-08 19:30:05</sys_created_on>
-        <sys_id>60423fabdb102300c33bf36f2996193d</sys_id>
+        <sys_id>d54a37efdb102300c33bf36f29961982</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Email</sys_name>
         <sys_package display_value="NedsIt" source="x_208573_nedsit">6217ef63db102300c33bf36f299619b5</sys_package>
         <sys_policy/>
         <sys_scope display_value="NedsIt">6217ef63db102300c33bf36f299619b5</sys_scope>
         <sys_update_name>sys_dictionary_x_208573_nedsit_cadastro_email</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-08 19:30:05</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-09-08 20:04:02</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
