@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_208573_nedsit.cadastro_user" name="x_208573_nedsit.cadastro_user">c632f363db102300c33bf36f299619d1</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-08 19:28:51</sys_created_on>
+        <sys_id>8e32bbabdb102300c33bf36f2996197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c632f363db102300c33bf36f299619d1</sys_name>
+        <sys_package display_value="NedsIt" source="x_208573_nedsit">6217ef63db102300c33bf36f299619b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NedsIt">6217ef63db102300c33bf36f299619b5</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8e32bbabdb102300c33bf36f2996197c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-08 19:28:51</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

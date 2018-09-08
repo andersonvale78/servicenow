@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="email" label="Email" language="en" table="x_208573_nedsit_cadastro">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <help/>
+            <hint/>
+            <label>Email</label>
+            <language>en</language>
+            <name>x_208573_nedsit_cadastro</name>
+            <plural>Emails</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-08 19:30:05</sys_created_on>
+            <sys_id>c0823fabdb102300c33bf36f299619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Email</sys_name>
+            <sys_package display_value="NedsIt" source="x_208573_nedsit">6217ef63db102300c33bf36f299619b5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NedsIt">6217ef63db102300c33bf36f299619b5</sys_scope>
+            <sys_update_name>sys_documentation_x_208573_nedsit_cadastro_email_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-08 19:30:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
